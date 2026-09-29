@@ -1,0 +1,11 @@
+# Файл для захисту
+DEFENSE.md
+
+# Конфіги та службове
+.claude/
+.vscode/
+.idea/
+.env
+node_modules/
+.DS_Store
+Thumbs.db

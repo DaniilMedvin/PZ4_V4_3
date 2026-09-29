@@ -1,0 +1,7 @@
+{
+  "disciplines": [
+    { "name": "Бази даних", "hours": 120, "credits": 4, "teacher": "Іваненко І. І." },
+    { "name": "Веб-технології", "hours": 150, "credits": 5, "teacher": "Петренко П. П." },
+    { "name": "Алгоритми", "hours": 90, "credits": 3, "teacher": "Сидоренко С. С." }
+  ]
+}
